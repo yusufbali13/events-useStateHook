@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/events-useStateHook/static/css/main.c2cab247.css",
+    "main.js": "/events-useStateHook/static/js/main.1b71cc2f.js",
+    "index.html": "/events-useStateHook/index.html",
+    "main.c2cab247.css.map": "/events-useStateHook/static/css/main.c2cab247.css.map",
+    "main.1b71cc2f.js.map": "/events-useStateHook/static/js/main.1b71cc2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.1b71cc2f.js"
+  ]
+}
